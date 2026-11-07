@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode
+.idea
+*.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 환경 변수 (광고 ID, 프로모션 코드 포함) - 저장소에 올리지 않음
+.env
+.env.*
